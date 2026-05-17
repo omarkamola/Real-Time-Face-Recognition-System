@@ -49,40 +49,6 @@ project/
 5. **Cell 5** → Run real-time face recognition
 6. **Cell 6** → Delete a person from the database
 7. **Cell 7** → Display database contents
-
----
-
-## Cell 3 - Add a Single Person
-
-Before running:
-
-- Create a folder inside `database/`
-- Name the folder after the person
-- Add 2 to 5 clear photos inside the folder
-- Update the `PERSON_NAME` variable
-
-Example:
-
-```text
-database/Omar/photo1.jpg
-```
-
----
-
-## Cell 4 - Add All Team Members
-
-Before running:
-
-- Create one folder per person inside `database/`
-- Add 2 to 5 clear photos for each person
-
-Example:
-
-```text
-database/Omar/photo1.jpg
-database/Ahmed/photo2.jpg
-```
-
 ---
 
 ## Notes
